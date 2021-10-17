@@ -1,0 +1,21 @@
+Bald Hills, 1.77
+Boondall, 6.04
+Brighton, 24.84
+Brisbane Airport, 31.82
+Bulwer, 96.34
+Cowan Cowan, 100.0
+Deagon, 0.94
+Hemmant, 1.15
+Kooringal, 95.3
+Lota, 8.71
+Lytton, 30.79
+Manly, 9.84
+Moreton Bay, 0.06
+Moreton Island, 7.42
+Nudgee Beach, 33.83
+Pinkenba, 48.87
+Port Of Brisbane, 9.92
+Ransome, 7.48
+Sandgate, 29.78
+Shorncliffe, 81.12
+Wynnum, 6.31
